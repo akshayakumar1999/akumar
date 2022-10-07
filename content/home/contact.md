@@ -19,7 +19,7 @@ content:
     postcode: "30308"
     country: United States
     country_code: US
-  email: akshaya.kumar@gatech.edu
+  email: akshayakumar@gatech.edu
 widget_id: contact
 design:
   columns: "2"
