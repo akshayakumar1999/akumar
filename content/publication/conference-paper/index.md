@@ -5,7 +5,8 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Joseph Jaeger and admin
+  - Joseph Jaeger
+  - admin
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
