@@ -7,32 +7,24 @@ publication_types:
 authors:
   - Joseph Jaeger
   - admin
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+summary: 
 url_project: ""
 author_notes:
   - Equal contribution
   - Equal contribution
 publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_video: 
 publication: Asiacrypt 2022
 featured: true
 date: 2022-10-07T03:13:25.043Z
 url_slides: ""
 title: Memory-Tight Multi-Challenge Security of Public-Key Encryption
 tags: []
-projects:
-  - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: "2022"
 ---
 
