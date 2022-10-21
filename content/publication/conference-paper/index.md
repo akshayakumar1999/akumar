@@ -1,19 +1,19 @@
 ---
 abstract: ""
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
 authors:
   - Joseph Jaeger
   - admin
-summary: 
+summary: null
 url_project: ""
+publication_short: ""
+url_video: null
 author_notes:
   - Equal contribution
   - Equal contribution
-publication_short: ""
-url_video: 
 publication: Asiacrypt 2022
 featured: true
 date: 2022-10-07T03:13:25.043Z
@@ -25,7 +25,7 @@ image:
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
-doi: "2022"
+doi: ""
 ---
 
 {{% callout note %}}
