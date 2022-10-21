@@ -2,7 +2,7 @@
 widget: collection
 widget_id: recent-posts
 weight: 90
-title: Recent Publications
+title: Publications
 subtitle: ""
 content:
   filters:
