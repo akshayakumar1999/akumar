@@ -38,4 +38,4 @@ title: Akshaya Kumar
 first_name: Alice
 email: ""
 ---
-Akshaya Kumar is a first-year Ph.D. student in Computer Science at the Georgia Institute of Technology's School of Cybersecurity and Privacy where she is advised by Professor Joseph Jaeger. Her research interests include cryptography, information security, and generally, theoretical computer science. Her most recent work focuses on provable security in the memory-aware setting. Her paper on memory-tight proofs for public key encryption schemes was recently accepted at Asiacrypt 2022. She is a part of The Association for Women in Mathematics (AWM), an initiative that promotes women in mathematics.
+I am a a first-year Ph.D. student in Computer Science at the Georgia Institute of Technology's School of Cybersecurity and Privacy where I am advised by Professor Joseph Jaeger. My interests include cryptography, information security, and generally, theoretical computer science. My most recent work focuses on provable security in the memory-aware setting. I am a part of The Association for Women in Mathematics (AWM), an initiative that promotes women in mathematics.
