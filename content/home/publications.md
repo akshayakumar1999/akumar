@@ -1,6 +1,6 @@
 ---
 widget: collection
-widget_id: recent-posts
+widget_id: collection
 weight: 90
 title: Publications
 subtitle: ""
