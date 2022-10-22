@@ -1,6 +1,6 @@
 ---
 widget: collection
-widget_id: my-widget-123
+widget_id: interests
 headless: true
 weight: 10
 title: Interests
