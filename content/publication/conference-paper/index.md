@@ -12,8 +12,7 @@ url_project: ""
 publication_short: ""
 url_video: null
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - authors listed in alphabetical order
 publication: Asiacrypt 2022
 featured: true
 date: 2022-10-07T03:13:25.043Z
