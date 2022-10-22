@@ -26,9 +26,9 @@ organizations:
     url: https://www.cc.gatech.edu/
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Computer Science (ongoing)
       institution: Georgia Tech
-      year: 2027
+      year: ""
     - course: BTech in Computer Science and Engineering
       institution: National Institute of Technology Calicut
       year: 2020
