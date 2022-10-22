@@ -20,6 +20,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
+  - name: School of Cybersecurity and Privacy
+    url: https://scp.cc.gatech.edu/
   - name: Georgia Tech
     url: https://www.cc.gatech.edu/
 education:
