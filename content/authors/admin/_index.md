@@ -35,6 +35,6 @@ role: PhD Student
 highlight_name: true
 title: Akshaya Kumar
 first_name: Alice
-email: ""
+email: akshayakumar[at]gatech[dot]edu
 ---
 I am a a first-year Ph.D. student in Computer Science at the Georgia Institute of Technology's School of Cybersecurity and Privacy where I am advised by Professor Joseph Jaeger. My interests include cryptography, information security, and generally, theoretical computer science. My most recent work focuses on provable security in the memory-aware setting. I am a part of The Association for Women in Mathematics (AWM), an initiative that promotes women in mathematics.
