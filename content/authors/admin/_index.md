@@ -7,9 +7,6 @@ interests:
   - Information Security
   - Theoretical Computer Science
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: akumar805@gatech.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/akshaya_k_kumar
@@ -18,7 +15,7 @@ social:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/akshayakumar1999/
 organizations:
   - name: School of Cybersecurity and Privacy
     url: https://scp.cc.gatech.edu/
