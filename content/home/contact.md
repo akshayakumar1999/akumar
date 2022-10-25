@@ -5,13 +5,6 @@ weight: 130
 title: Contact
 subtitle: null
 content:
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
-  autolink: true
   address:
     street: 756 W Peachtree St NW
     city: Atlanta
