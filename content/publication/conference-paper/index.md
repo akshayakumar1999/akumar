@@ -15,7 +15,7 @@ author_notes:
   - authors listed in alphabetical order
 publication: Asiacrypt 2022
 featured: true
-date: 2022-10-07T03:13:25.043Z
+date: 2022-10-27T19:37:59.232Z
 url_slides: ""
 title: Memory-Tight Multi-Challenge Security of Public-Key Encryption
 tags: []
