@@ -1,5 +1,5 @@
 ---
-widget: interests
+widget: collection
 widget_id: interests
 headless: true
 weight: 10
