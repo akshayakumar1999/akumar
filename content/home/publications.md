@@ -5,6 +5,7 @@ weight: 90
 title: Publications
 subtitle: ""
 active: true
+share: false
 content:
   filters:
     folders:
