@@ -19,7 +19,7 @@ headless: true
 ---
 I like to draw.
 
-Here are some of my sketches from [Inktober 2019](https://inktober.com/rules), [Inktober 2022](https://inktober.com/rules), and some other picked at random. I use the pseudonym Athena sometimes. 
+Here are some of my sketches from [Inktober 2019](https://inktober.com/rules), [Inktober 2022](https://inktober.com/rules), and some others picked at random. I use the pseudonym Athena sometimes. 
 
 ![](signal-2022-11-02-220456_004.jpeg)
 
