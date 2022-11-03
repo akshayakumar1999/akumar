@@ -19,6 +19,12 @@ headless: true
 ---
 I like to draw.
 
+![](signal-2022-11-02-220456_006.jpeg)
+
+![](signal-2022-11-02-220422_003.jpeg)
+
+![](signal-2022-11-02-220422_002.jpeg)
+
 Here are some of my sketches from Inktober 2019, Inktober 2022, and some other picked at random.
 
 ![](signal-2022-11-02-220456_005.jpeg)
