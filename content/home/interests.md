@@ -1,4 +1,3 @@
----
 widget: collection
 widget_id: collection
 weight: 90
