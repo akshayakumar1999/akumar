@@ -1,7 +1,7 @@
 ---
 widget: collection
 widget_id: collection
-weight: 90
+weight: 100
 title: Interests
 subtitle: ""
 active: true
