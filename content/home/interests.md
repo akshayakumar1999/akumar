@@ -25,19 +25,15 @@ Here are some of my sketches from [Inktober 2019](https://inktober.com/rules), [
 
 ![](signal-2022-11-02-222033_003.jpeg)
 
+![]()
 
-
-![](signal-2022-11-02-220456_004.jpeg)
-
-![](signal-2022-11-02-220422_004.jpeg)
+![]()
 
 ![](signal-2022-11-02-220456_006.jpeg)
 
 ![](signal-2022-11-02-220422_003.jpeg)
 
-![](signal-2022-11-02-220422_002.jpeg)
-
-
+![]()
 
 ![](signal-2022-11-02-220456_005.jpeg)
 
