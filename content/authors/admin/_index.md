@@ -33,7 +33,7 @@ superuser: true
 last_name: Bighetti
 role: PhD Student
 highlight_name: true
-title: Akshaya Kumar
+title: Akshaya Kumar (she/her)
 first_name: Alice
 email: akshayakumar[at]gatech[dot]edu
 ---
