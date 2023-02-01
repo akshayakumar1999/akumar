@@ -1,4 +1,6 @@
 ---
+title: "Akshaya Kumar "
+role: PhD Student (she/her)
 avatar_filename: avatar.jpg
 bio: My research interests include cryptography, information security, and
   theoretical computer science.
@@ -31,9 +33,7 @@ education:
       year: 2020
 superuser: true
 last_name: Bighetti
-role: PhD Student
 highlight_name: true
-title: Akshaya Kumar (she/her)
 first_name: Alice
 email: akshayakumar[at]gatech[dot]edu
 ---
