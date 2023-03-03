@@ -1,18 +1,23 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: >
+  We give the first examples of public-key encryption schemes which can be
+  proven to achieve multi-challenge, multi-user CCA security via reductions that
+  are tight in time, advantage, and memory. Our constructions are obtained by
+  applying the KEM-DEM paradigm to variants of Hashed ElGamal and the
+  Fujisaki-Okamoto transformation that are augmented by adding uniformly random
+  strings to their ciphertexts and/or keys.
+
+  The reductions carefully combine recent proof techniques introduced by Bhattacharyya’20 and Ghoshal- Ghosal-Jaeger-Tessaro’22. Our proofs for the augmented ECIES version of Hashed-ElGamal make use of a new computational Diffie-Hellman assumption wherein the adversary is given access to a pairing to a random group, which we believe may be of independent interest.
 slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: Talks
-location: Wowchemy HQ
-date: 2030-06-01T13:00:00Z
-date_end: 2030-06-01T15:00:00Z
+title: Memory-Tight Multi-Challenge Security of Public-Key Encryption
+location: School of Cybersecurity and Privacy, Georgia Tech
+date: 2022-10-19T16:00:00.000Z
+date_end: 2022-10-19T17:00:00.000Z
 all_day: false
-event: Wowchemy Conference
-event_url: https://example.org
+event: SCP Security Seminar
+event_url: https://www.gatech.edu/event/2022/10/06/scp-security-seminar-0
 featured: false
 authors: []
 url_video: ""
@@ -23,12 +28,8 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-publishDate: 2017-01-01T00:00:00Z
+links: []
+publishDate: 2023-03-03T17:35:51.936Z
 tags: []
 projects:
   - example
@@ -37,15 +38,3 @@ image:
   focal_point: Right
 url_code: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
