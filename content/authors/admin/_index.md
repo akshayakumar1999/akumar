@@ -37,6 +37,6 @@ highlight_name: true
 first_name: Alice
 email: akshayakumar[at]gatech[dot]edu
 ---
-I am a a first-year Ph.D. student in Computer Science at the Georgia Institute of Technology's School of Cybersecurity and Privacy where I am advised by [Prof. Joseph Jaeger](https://faculty.cc.gatech.edu/~jjaeger6/). My interests include cryptography, information security, and generally, theoretical computer science. My most recent work focuses on provable security in the memory-aware setting. I am a part of The Association for Women in Mathematics (AWM), an initiative that promotes women in mathematics.
+I am a a second-year Ph.D. student in Computer Science at the Georgia Institute of Technology's School of Cybersecurity and Privacy where I am advised by [Prof. Joseph Jaeger](https://faculty.cc.gatech.edu/~jjaeger6/). My interests include cryptography, information security, and generally, theoretical computer science. My most recent work focuses on provable security in the memory-aware setting. I am a part of The Association for Women in Mathematics (AWM), an initiative that promotes women in mathematics.
 
 Previously, I was an undergraduate student at [NIT Calicut](http://www.nitc.ac.in/) where I was introduced to information security and cryptography by [Prof. Vinod Pathari](https://sites.google.com/nitc.ac.in/pathari).
